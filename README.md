@@ -3,7 +3,10 @@
 </h1>
 
 <p align="center">
-  <img src="./caminho-da-imagem" width="100%" />
+  <img src="./EtecShop/wwwroot/img/produtos/etecshop.png" width="100%" />
+  <img src="./EtecShop/wwwroot/img/produtos/etecshop2.png" width="100%" />
+  <img src="./EtecShop/wwwroot/img/produtos/etecshop3.png" width="100%" />
+  <img src="./EtecShop/wwwroot/img/produtos/etecshop4.png" width="100%" />
 </p>
 
 ## 💻 Projeto:
